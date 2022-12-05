@@ -1,0 +1,3 @@
+class sallo(){
+    return null;
+}
